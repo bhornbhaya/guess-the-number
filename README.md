@@ -8,13 +8,14 @@
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development) -[Acknowledgements](#acknowledgements)
+  - [Continued development](#continued-development)
+  - [Acknowledgements](#acknowledgements)
 
 ## Overview
 
 ### Live preview
 
-[Click Here]()
+[Click Here](https://bhornbhaya.github.io/guess-the-number/)
 
 ### Screenshot
 
@@ -51,7 +52,8 @@
 - Log-in section
 - Facebook, google login authentication
 
-## Acknowledgements
+### Acknowledgements
 
 This project is a part of the Complete JavaScript Course 2021 by Jonas Schmedtmann
+
 Coded by [me](https://www.linkedin.com/in/bhornbhaya/)
